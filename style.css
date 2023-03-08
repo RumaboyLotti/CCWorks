@@ -1,0 +1,30 @@
+*{
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    
+    }
+    .header{
+      top: 0;
+      width: 100%;
+      border-bottom: 1px solid seashell;
+      text-decoration: underline;
+    }
+    .navbar{
+      position: fixed;
+    }
+    .navbar a{
+      float: right;
+      display: block;
+      text-align: right;
+      padding: 14px 16px;
+    }
+    .Mission{
+     background-color: black;
+     
+    }
+    .tertiary{
+    }
